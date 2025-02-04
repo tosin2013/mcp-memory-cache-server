@@ -1,0 +1,7 @@
+{
+  "maxEntries": 1000,
+  "maxMemory": 104857600,
+  "defaultTTL": 3600,
+  "checkInterval": 60000,
+  "statsInterval": 30000
+}
