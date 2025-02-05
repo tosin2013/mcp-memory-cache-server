@@ -6,8 +6,8 @@ A Model Context Protocol (MCP) server that reduces token consumption by efficien
 
 1. Clone the repository:
 ```bash
-git clone git@github.com:ibproduct/ib-mcp-cache-server
-cd ib-mcp-cache-server
+git clone https://github.com/tosin2013/mcp-memory-cache-server.git
+cd mcp-memory-cache-server
 ```
 
 2. Install dependencies:
