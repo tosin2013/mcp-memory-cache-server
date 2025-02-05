@@ -1,9 +1,19 @@
 # Memory Cache Server
+[![smithery badge](https://smithery.ai/badge/@tosin2013/mcp-memory-cache-server)](https://smithery.ai/server/@tosin2013/mcp-memory-cache-server)
 
 A Model Context Protocol (MCP) server that reduces token consumption by efficiently caching data between language model interactions. Works with any MCP client and any language model that uses tokens.
 
 ## Installation
 
+### Installing via Smithery
+
+To install Memory Cache Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@tosin2013/mcp-memory-cache-server):
+
+```bash
+npx -y @smithery/cli install @tosin2013/mcp-memory-cache-server --client claude
+```
+
+### Installing Manually
 1. Clone the repository:
 ```bash
 git clone https://github.com/tosin2013/mcp-memory-cache-server.git
